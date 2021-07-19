@@ -17,3 +17,5 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 * **Chess** - Play chess in the console - https://github.com/Eesha-Jain/Chess
 * **Backgammon** - Play backgammon in the console - https://github.com/Eesha-Jain/Backgammon
 * **Number Leaderboard** - Input a number to be on the leaderboard - https://github.com/Eesha-Jain/Number-Leaderboard---Python
+
+![](https://komarev.com/ghpvc/?username=Eesha-Jain&label=Profile+Views&style=flat-square&color=dd36ff)
