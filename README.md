@@ -1,4 +1,4 @@
-### Hi there! I'm Eesha
+### Hi there! I'm Eesha 🙋‍♀️
 
 I'm Eesha, a human being who loves to program in her free time, along with compete in robotics & study science.
 
