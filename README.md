@@ -14,22 +14,8 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 
 #### Please ⭐ the projects you like to encourage me to continue programming :)
 
-#### Personal Portfolio
-Learn about Eesha
-Check out the repo (and the link to the site) here! https://github.com/Eesha-Jain/Portfolio 
-
-#### BioMatrix IOS
-BioMatrix is an app that quizes studnets on biology questions so they can learn
-Check out the repo (and the demo walkthrough) here! https://github.com/Eesha-Jain/BioMatrixIOS
-
-#### Chess
-Playing chess in the console has just become easy
-Check out the repo here! https://github.com/Eesha-Jain/Chess
-
-#### Backgammon
-Playing backgammon in the console has just become easy
-Check out the repo here! https://github.com/Eesha-Jain/Backgammon
-
-#### Number Leaderboard
-Creates a leaderboard based on inputted numbers! Then, orders the users accordingly
-Check out the repo here! https://github.com/Eesha-Jain/Number-Leaderboard---Python
+* Personal Portfolio * - Learn about Eesha - https://github.com/Eesha-Jain/Portfolio 
+* BioMatrix IOS * - Quiz yourself on various biology questions - https://github.com/Eesha-Jain/BioMatrixIOS
+* Chess * - Play chess in the console - https://github.com/Eesha-Jain/Chess
+* Backgammon * - Play backgammon in the console - https://github.com/Eesha-Jain/Backgammon
+* Number Leaderboard * - Input a number to be on the leaderboard - https://github.com/Eesha-Jain/Number-Leaderboard---Python
