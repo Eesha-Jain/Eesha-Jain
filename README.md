@@ -8,4 +8,4 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 - 📫 How to reach me: Create an issue in this repo
 - ⚡ Fun fact: I also love inspirational quotes :)
 
-[![Readme Quotes](hi)](https://github.com/piyushsuthar/github-readme-quotes)
+> It's better to work through a bug then to give up without trying. Except if it's a spider... put it back into its habitat before it runs away
