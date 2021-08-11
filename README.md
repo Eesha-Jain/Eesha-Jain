@@ -13,9 +13,4 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 - Computer Science: Java, Python
 - Other: English :P
 
-### Noteable Projects:
-
-* **Personal Portfolio** - Learn about Eesha - https://github.com/Eesha-Jain/Portfolio 
-* **BioMatrix IOS** - Quiz yourself on various biology questions - https://github.com/Eesha-Jain/BioMatrixIOS
-
 ![](https://komarev.com/ghpvc/?username=Eesha-Jain&label=Profile+Views&style=flat-square&color=dd36ff)
