@@ -5,12 +5,4 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 * 💬 Ask me about: Anything! I'm happy to chat
 * 📫 How to reach me: Create an issue in this repo
 
-#### Please ⭐ the projects you like to encourage me to continue programming :)
-
-### Commonly used Languages:
-- Web Development: HTML, CSS, Javascript, Node.js, React, Typescript, SCSS
-- App Development: Kotlin, Swift / SwiftUI, React Native
-- Computer Science: Java, Python
-- Other: English :P
-
 ![](https://komarev.com/ghpvc/?username=Eesha-Jain&label=Profile+Views&style=flat-square&color=dd36ff)
