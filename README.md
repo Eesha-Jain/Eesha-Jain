@@ -13,3 +13,5 @@ Other Projects Worth Mentioning: [ByeByeDemons](https://github.com/Eesha-Jain/By
 Projects I'm Working On: [Bambi](https://github.com/Eesha-Jain/Bambi) | [STEMMan](https://github.com/Eesha-Jain/STEMMan) | [Booked](https://github.com/Eesha-Jain/Booked)
 
 ![](https://komarev.com/ghpvc/?username=Eesha-Jain&label=Profile+Views&style=flat-square&color=dd36ff)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Eesha-Jain&show_icons=true&border_radius=10&bg_color=4b284f&text_color=f291ff&title_color=ffffff&icon_color=ffffff&hide_border=true)
