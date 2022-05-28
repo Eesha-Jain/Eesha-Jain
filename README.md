@@ -1,5 +1,7 @@
 ### Hi there! I'm Eesha 🙋‍♀️
 
+![EeshaJain](https://user-images.githubusercontent.com/68827992/170837251-0ab6e047-3fa8-47d1-a7aa-cf76fd103e60.png)
+
 I'm Eesha, a human being who loves to program in her free time, along with compete in robotics & study science.
 
 * 👧 Pronouns: she/her/hers
