@@ -6,6 +6,7 @@ I'm Eesha, a human being who loves to program in her free time, along with compe
 
 * 👧 Pronouns: she/her/hers
 * 🏆 Proudest Lines of Code: [iDrop Calendar](https://play.google.com/store/apps/details?id=com.nanodropperinc.nanodropper&hl=en_US&gl=US)
+* 📲 Languages: Python, Java, JavaScript, Svelte, React Native
 * 💬 Ask me about: Anything! I'm happy to chat
 * 📫 How to reach me: Create an issue in this repo
 
