@@ -1,8 +1,5 @@
-### Hi there! I'm Eesha 🙋‍♀️
+### Hi!
 
-I'm Eesha, a human being who loves to program in her free time, along with compete in robotics & study science.
-
-* 👧 Pronouns: she/her/hers
 * 📲 Languages: Python, Java, JavaScript, Svelte, React Native, Typescript
 * 📫 How to reach me: Create an issue in this repo
 
