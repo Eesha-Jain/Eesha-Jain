@@ -1,5 +1,6 @@
 ### Hi!
 
+* 😄 Pronouns: she/her/hers
 * 📲 Languages: Python, Java, JavaScript, Svelte, React Native, Typescript
 * 📫 How to reach me: Create an issue in this repo
 
