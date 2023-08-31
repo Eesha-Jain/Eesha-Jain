@@ -1,4 +1,4 @@
-### Hi!
+### Hi! I'm Eesha
 
 * 😄 Pronouns: she/her/hers
 * 📲 Languages: Python, Java, JavaScript, Svelte, React Native, Typescript
