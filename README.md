@@ -1,6 +1,7 @@
 ### Hi! I'm Eesha
 
 * 😄 Pronouns: she/her/hers
+* 🌐 Personal Website: https://eesha-jain.vercel.app/
 * 📲 Programming Languages & Databases: Python; Java; C++; TypeScript; MongoDB; Supabase; SQL
 * 📕 Frameworks & Libraries: Machine Learning – TensorFlow, DeepSORT; OpenAI APIs; React; Svelte
 * 📫 How to reach me: Create an issue in this repo
