@@ -2,8 +2,10 @@
 
 * 😄 Pronouns: she/her/hers
 * 🌐 Personal Website: https://eesha-jain.vercel.app/
-* 📲 Programming Languages & Databases: Python; Java; C++; TypeScript; MongoDB; Supabase; SQL
-* 📕 Frameworks & Libraries: Machine Learning – TensorFlow, DeepSORT; OpenAI APIs; React; Svelte
+* 💬 Agentic Engineering: End-to-end multi-agent workflows (from planning to code review); behavioral, system, & adversarial
+prompt engineering; cost-optimized model routing; curious depth-first exploration; high-leverage tool orchestration
+* 🤖 AI/Machine Learning: TensorFlow; DeepSORT; OpenCV; Kalman Filtering; FilterPy; LLMs- OpenAI, Claude, Gemini, Grok
+* 💻 Technical Foundation: C++; Python; Java; Kotlin; React; SQL; Slang; Linux; Docker; TypeScript; Svelte
 * 📫 How to reach me: Create an issue in this repo
 
-Noteable Projects: [Mustang Math COMP](https://github.com/comp-development/COMP) | [iDrop Calendar](https://github.com/Eesha-Jain/iDropCalendar) | [Robotic Surgery Segmentation](https://github.com/Eesha-Jain/robot-surgery-segmentation/) | [Nape Visualizer](https://github.com/Eesha-Jain/nape_visualizer)
+Noteable Projects are pinned below!
